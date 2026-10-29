@@ -1,0 +1,21 @@
+transaction_id,client_id,nume,oras,tip_tranzactie,suma,data
+1001,101,Andrei,Alba Iulia,Transfer,2500,2026-01-05
+1002,102,Maria,Cluj,Plata,450,2026-01-06
+1003,103,Alex,Sibiu,Retragere,800,2026-01-07
+1004,104,Ioana,Cluj,Transfer,5200,2026-01-08
+1005,105,Radu,Brasov,Depunere,7500,2026-01-09
+1006,101,Andrei,Alba Iulia,Plata,320,2026-01-10
+1007,102,Maria,Cluj,Transfer,4100,2026-01-11
+1008,106,Elena,Alba Iulia,Depunere,6800,2026-01-12
+1009,107,Mihai,Sibiu,Transfer,3700,2026-01-13
+1010,104,Ioana,Cluj,Plata,950,2026-01-14
+1011,105,Radu,Brasov,Transfer,9200,2026-01-15
+1012,108,Ana,Cluj,Retragere,600,2026-01-16
+1013,109,Vlad,Brasov,Depunere,12000,2026-01-17
+1014,110,Diana,Alba Iulia,Transfer,4600,2026-01-18
+1015,107,Mihai,Sibiu,Plata,1250,2026-01-19
+1016,102,Maria,Cluj,Depunere,8900,2026-01-20
+1017,101,Andrei,Alba Iulia,Transfer,3100,2026-01-21
+1018,109,Vlad,Brasov,Transfer,14500,2026-01-22
+1019,104,Ioana,Cluj,Retragere,1100,2026-01-23
+1020,110,Diana,Alba Iulia,Plata,780,2026-01-24
